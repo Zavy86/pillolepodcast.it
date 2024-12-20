@@ -1,0 +1,7 @@
+Redirect 301 /blog https://www.alicepharmacist.it/podcast
+Redirect 301 /rss https://www.alicepharmacist.it/podcast?format=rss
+Redirect 301 /pocketcasts https://pca.st/63cl57s3
+Redirect 301 /youtube https://www.youtube.com/channel/UCi468sxsPNqrBFywdKa9V7A
+Redirect 301 /apple-podcast https://podcasts.apple.com/it/podcast/pillole/id1485892840
+Redirect 301 /spotify https://open.spotify.com/show/2hTGfiWpMkhy6wTAUl8FFr?si=GEN9DqWZSJGYFMqkFx5alQ
+Redirect 301 /amazon-music https://music.amazon.it/podcasts/05e33704-8681-49f7-8b6b-63361144b1bc/pillole
